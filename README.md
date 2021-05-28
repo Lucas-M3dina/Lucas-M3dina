@@ -10,6 +10,6 @@
 
 > 🚀 **“Medir o progresso da programação por linhas de código é como medir o progresso da construção de aeronaves em termos de peso.”** 💻
 
+<br>
 
-
-<p align="center"> ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M3dina&theme=radical&layout=compact) </p>
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M3dina&theme=radical&layout=compact) 
