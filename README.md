@@ -18,4 +18,4 @@
 <br>
 
 ## ⚡ Estatísticas GitHub 
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M3dina&theme=radical&layout=compact)   ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Lucas-M3dina&theme=radical&layout=compact)
+ ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Lucas-M3dina&theme=radical&layout=compact)              ![YOUR github stats](https://github-readme-stats.vercel.app/api?username=Lucas-M3dina&theme=radical&layout=compact)
