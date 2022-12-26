@@ -2,8 +2,8 @@
  ## 👨‍💻 Lucas Medina
 
 ### Eae, tranquilo?
- Meu nome é Lucas, sou estudante de Desenvolvimento de Sistemas no Senai de Informatica e aprendo hacking no tempo livre 😜
- - 📚 Cursando Desenvolvimento de Sistemas.
+ Meu nome é Lucas, sou Desenvolvedor de Sistemas e aprendo hacking no tempo livre 😜
+ - 📚 Cursando Analise e Desenvolvimento de Sistemas.
  - 🧐 Disposto e aberto a novas oportunidades.
  - 🙋🏼‍♂️ Sobre mim: Gosto de series, esportes, ctfs e principalmente programação !!!
 
