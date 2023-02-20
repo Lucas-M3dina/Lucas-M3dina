@@ -52,11 +52,13 @@ Estou sempre em busca de novas oportunidades para aprender e crescer na carreira
 
 <hr/>
 
-<p>
-  🤙🏼 Se você busca um desenvolvedor comprometido, apaixonado por tecnologia e com um grande potencial de crescimento, não hesite em entrar em contato comigo. ⤵️
-</p>
-
 <br>
+
+<h3>
+  🤙🏼 Se você busca um desenvolvedor comprometido, apaixonado por tecnologia e com um grande potencial de crescimento, não hesite em entrar em contato comigo. ⤵️
+</h3>
+
+<br><br>
 
 <p align="center">
  <a href="https://github.com/Lucas-M3dina" target="_blank" alt="Github">
